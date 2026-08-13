@@ -3,10 +3,6 @@
 <header>
 
 
-header {
-background-color: #183C63;
-color: #FFFFFF;
-}
 <h1>Meu blog tech</h1>
 <p>Vou compartilhar conhecimentos sobre tecnologia e programação</p>
 
