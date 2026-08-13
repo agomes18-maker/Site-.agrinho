@@ -1,7 +1,6 @@
-<p>Meu blog tech</p>
+<h1>Meu blog tech</h1>
 
 <p>Vou compartilhar conhecimentos sobre tecnologia e programação</p>
-<!DOCTYPE html>
 
 <html lang="en">
 <head>
