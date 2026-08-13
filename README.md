@@ -1,17 +1,31 @@
-<h1>Meu blog tech</h1>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<header>
 
+
+<h1>Meu blog tech</h1>
 <p>Vou compartilhar conhecimentos sobre tecnologia e programação</p>
 
-<html lang="en">
+
+  <header>
+<main>
+<h2>Meu primeiro post</h2>
+<p>Por: Marcelo Paludetto</p>
+<p>Boas-vindas ao meu novo blog! Aqui vou compartilhar dicas de programação e curiosidades da área de tecnologia.</p>
+</main>
+
+
+
+
+
+   
+<!DOCTYPE html>
+
+<html lang="pt-br">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Document</title>
+<title>Blog</title>
 </head>
 <body>
-
-</body>
-</html>
-header {
-background-color: blue;
-}
+<h1>Meu blog tech</h1>
+<p>Vou compartilhar conhecimentos sobre tecnologia e programação</p>
