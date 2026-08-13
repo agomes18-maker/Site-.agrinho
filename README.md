@@ -9,6 +9,7 @@
 <body>
 
 </body>
-</html>header {
+</html>header 
+header {
 background-color: blue;
 }
