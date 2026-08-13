@@ -11,3 +11,6 @@
 <p>Vou compartilhar conhecimentos sobre tecnologia e programação</p>
 </body>
 </html>
+header {
+background-color: blue;
+}
